@@ -1,4 +1,4 @@
-name: IPQ60XX-WIFI(EMMC)
+name: JDAX1800P
 
 on:
   workflow_dispatch:
